@@ -3,7 +3,7 @@
 ==========
 你好
 -----------
-[美丽的风景](http://33711.hk/images/sound.png)
+![美丽的风景](http://33711.hk/images/sound.png)
 
 ```css
 
